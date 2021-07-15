@@ -11,7 +11,9 @@ const Series = () => {
         url: 'https://mumer01.github.io/publicApis/BoxOffice.json',
         category: 'series'
     }) 
-    // console.log("data", data)
+    console.log("data", data)
+    console.log("data", data)
+    console.log("data", data)
 
     const [filData, setFilData] = useState(data)
 
