@@ -4,6 +4,7 @@ import Footer from '../components/Footer'
 import Placeholder from '../components/Placeholder'
 import {Link} from 'react-router-dom'
 
+
 const Home = () => {
     return(
         <div>
