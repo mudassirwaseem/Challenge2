@@ -27,7 +27,7 @@ const Instructions = () => {
   return (
     <div className={classes.root}>
       <Typography className={classes.title} variant={"h4"}>
-        Geeks of Kolachi
+        Instructions
       </Typography>
       <div>
         <Typography variant={"h5"}>Note</Typography>
